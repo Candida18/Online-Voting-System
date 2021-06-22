@@ -77,9 +77,9 @@ DOWNLOAD "Online Voting Management System Project"
 
 9. Use the Following Credential to log into the Admin Session
    
-   username:  crce
+   `username:  crce`
    
-   password:  password
+   `password:  password`
    
 <br>
 
