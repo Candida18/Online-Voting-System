@@ -2,6 +2,12 @@
 
 <br>
 
+![](https://img.shields.io/github/forks/Candida18/Online-Voting-System?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/stars/Candida18/Online-Voting-System?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/license/Candida18/Online-Voting-System?style=for-the-badge) &emsp; &emsp;
+
+<br>
+
 ## ABSTRACT
 <p align="justify">“ ONLINE VOTING SYSTEM ” is an online voting technique. In this system, authorized voters can give his\her vote online without going to any physical polling station. There is a database which is maintained in which all the names of voters with complete information is stored.</p>
 
